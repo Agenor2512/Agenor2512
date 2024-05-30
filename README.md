@@ -2,8 +2,8 @@
 ### Hi ! I'm Agenor
 
 🧑‍💻 Future aprentice in System and Network Administration<br/>
-🧑‍🎓 Studying at the [Wild Code School](https://www.wildcodeschool.com/fr-fr/formations-informatique/formation-administrateur-infrastrucuture-securisees-alternance), in full remote<br/>
-📚 Currently learning about Full Stack Web Development<br/>
+🧑‍🎓 Studying at the [Doranco](https://www.doranco.fr/)<br/>
+📚 Currently learning about System and Network Administration<br/>
 
 
 ## 🌐 Social Media :
