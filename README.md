@@ -2,7 +2,7 @@
 ### Hi ! I'm Agenor
 
 🧑‍💻 Future aprentice in System and Network Administration<br/>
-🧑‍🎓 Studying at the [Doranco](https://www.doranco.fr/)<br/>
+🧑‍🎓 Studying at [Doranco](https://www.doranco.fr/)<br/>
 📚 Currently learning about System and Network Administration<br/>
 
 
