@@ -2,7 +2,7 @@
 ### Hi ! I'm Agenor
 
 🧑‍💻 Future aprentice in System and Network Administration<br/>
-🧑‍🎓 Studying at [Dawan])<br/>
+🧑‍🎓 Studying at [Dawan]<br/>
 📚 Currently learning about System and Network Administration<br/>
 
 
